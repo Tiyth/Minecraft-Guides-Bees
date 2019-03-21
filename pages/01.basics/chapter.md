@@ -7,6 +7,6 @@ child_type: docs
 
 ### Chapter 1
 
-# Basics
+# Bees - A Comprehensive Guide
 
 Discover the **basic** principles
