@@ -35,3 +35,5 @@ Jumping straight into Bees as soon as you start your world is possible but it’
 * Wool
 * Food
 * A few Diamonds
+
+It's recommended that you have a small base set up with food, a bed and shelter. 
