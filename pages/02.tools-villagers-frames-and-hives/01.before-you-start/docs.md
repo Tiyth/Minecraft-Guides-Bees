@@ -1,0 +1,22 @@
+---
+title: 'Before You Start'
+taxonomy:
+    category:
+        - docs
+visible: true
+twittercardoptions: summary
+articleenabled: false
+musiceventenabled: false
+orgaenabled: false
+orga:
+    ratingValue: 2.5
+orgaratingenabled: false
+eventenabled: false
+personenabled: false
+restaurantenabled: false
+restaurant:
+    acceptsReservations: 'yes'
+    priceRange: $
+---
+
+Jumping straight into Bees as soon as you start your world is possible but it’s best if you are more prepared. This cuts down the time it takes for you to get into bees. I suggest you have the following in place before you start:
