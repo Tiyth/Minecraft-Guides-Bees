@@ -54,7 +54,7 @@ _Armorer_: Buffs armors placed on nearby Flower Pedestals:
 
 ![](Bee%20Modifiers.jpg)
 
-**Police Bees** - Freeze!
+### **Police Bees** - Freeze!
 * Graduate + Valiant
 
 _Policing_: Attacks nearby mobs and picks up items when they die (at a very high luck rating). Items will be in the Apiary/Alveary inventory (also writes a police report).
