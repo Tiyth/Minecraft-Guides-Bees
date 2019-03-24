@@ -1,6 +1,6 @@
 ---
 title: 'Career Bees'
-media_order: 'Student Bees.jpg,Collecting Bees.jpg,Artistic Bees.jpg,Armorer Bees.jpg,Bee Modifiers.jpg,Police Bee.jpg,Police Report.jpg,Sharpening Bees.jpg,Sharpening Modifier.jpg,Lumber Bees.jpg,Husbandry Bees.jpg,Repair Bees.jpg,Smeltery Bees.jpg'
+media_order: 'Student Bees.jpg,Collecting Bees.jpg,Artistic Bees.jpg,Armorer Bees.jpg,Bee Modifiers.jpg,Police Bee.jpg,Police Report.jpg,Sharpening Bees.jpg,Sharpening Modifier.jpg,Lumber Bees.jpg,Husbandry Bees.jpg,Repair Bees.jpg,Smeltery Bees.jpg,Business Bees.jpg,Junk Seller Bees.jpg,Junkseller Results.jpg,Butcher Bees.jpg,Rainbow Bees.jpg,Mason Bees.jpg,Doctor Bees.jpg,Chef Bees.jpg,Honey Glazing.jpg'
 taxonomy:
     category:
         - docs
@@ -107,9 +107,59 @@ _Repair_: Repairs items placed on nearby Flower Pedestals. This includes weapons
 
 _Business_: Grabs items from adjacent inventories and sells them on the Testificate market for emeralds. May take a small commission on each sale. Will not trade emeralds for goods, but rather goods for Emeralds (paper, leather, etc.). Emeralds can be collected from the Apiary/Alveary.
 
+![](Business%20Bees.jpg)
+
 #### **Junk Seller Bees** - “Cheap as free!”
 * Business + Common
 
 _Junk Sale_: Grabs emeralds from adjacent inventories and buys random objects on the Testificate market. Items will be deposited in the Apiary/Alveary:
+
+![](Junk%20Seller%20Bees.jpg)
+
+![](Junkseller%20Results.jpg)
+
+#### **Butcher Bees** - “Fresh meat.”
+* Graduate + Lumber
+
+_Butcher_: Humanely slaughters any grown animals in its territory. Will keep one pair of each animal type alive to breed.
+
+![](Butcher%20Bees.jpg)
+
+#### **Rainbow Bees** - “Paint with all the colors of the wind.”
+* Artistic + PHD
+
+Will produce every colour of dye:
+
+![](Rainbow%20Bees.jpg)
+
+#### **Mason Bees** - “*secret bee handshake* *wink*”
+* Graduate + Smelter
+
+_Masonry_: Chisels nearby cobblestone into stone bricks. The bees will change stone randomly and also change blocks underground.
+
+![](Mason%20Bees.jpg)
+
+#### **Doctor Bees** - “State the nature of the medical emergency.”
+* PHD + Majestic
+
+_Healing_: Heals any entity within its territory and gives a regen effect:
+
+![](Doctor%20Bees.jpg)
+
+**Chef Bees** - “Bee our guest.”
+* Smelter + Artistic
+
+_Honey Glazing_: Gives a special honey glazing to any food item placed on a nearby Flower Pedestal. When eaten, honey-glazed food gives absorption hearts. This can be applied to ANY food.
+
+![](Chef%20Bees.jpg)
+
+![](Honey%20Glazing.jpg)
+
+#### **Priest Bees** - “Wololoo.”
+* Graduate + Yente
+
+_Priest_: Enchants items placed on nearby Flower Pedestals. Their skills can be boosted with bookshelves.
+
+![](Priest%20Bees.jpg)
 
 
