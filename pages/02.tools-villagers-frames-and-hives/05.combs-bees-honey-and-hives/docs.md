@@ -35,97 +35,30 @@ So what else can bees do? Well, apart from give you Delicious Honey Bread, they 
 **Mundane Bees**
 
 
-|Species        | Origin       | Special Notes           | Produce         |
-|-------------- | ------------ | ----------------------- | --------------- |
-|Forest Bee     | Forest Hive  | Requires Normal Flowers | Honey Comb      |
-|Meadows Bee    | Meadows Hive | Requires Normal Flowers | Honey Comb      |
-|Modest Bee     | Desert Hive  | Requires Cacti          | Parched Comb    |
-|Tropical Bee   | Jungle Hive  | Requires Fern or Vine   | Silky Comb      |
-|Wintry Bee     | Snow Hive    | Requires Normal Flowers | Frozen Comb     |
-|Marshy Bee     | Swamp Hive   | Requires Mushroom       | Mossy Comb      |
-|Water Bee      | Water Hive   | Requires Lily Pad       | Wet Comb        |
-|Rocky Bee      | Rock Hive    | Requires Stone          | Rocky Comb      |
-|Embittered Bee | Nether Hive  | Requires Nether Wart    | Simmering Comb  |
-|Marbled Bee    | Marble Hive  | Requires Normal Flowers | Honey Comb      |
+|Species        | Origin           | Special Notes           | Produce                     |
+|-------------- | ---------------- | ----------------------- | --------------------------- |
+|Forest Bee     | Forest Hive      | Requires Normal Flowers | Honey Comb                  |
+|Meadows Bee    | Meadows Hive     | Requires Normal Flowers | Honey Comb                  |
+|Modest Bee     | Desert Hive      | Requires Cacti          | Parched Comb                |
+|Tropical Bee   | Jungle Hive      | Requires Fern or Vine   | Silky Comb                  |
+|Wintry Bee     | Snow Hive        | Requires Normal Flowers | Frozen Comb                 |
+|Marshy Bee     | Swamp Hive       | Requires Mushroom       | Mossy Comb                  |
+|Water Bee      | Water Hive       | Requires Lily Pad       | Wet Comb                    |
+|Rocky Bee      | Rock Hive        | Requires Stone          | Rocky Comb                  |
+|Embittered Bee | Nether Hive      | Requires Nether Wart    | Simmering Comb              |
+|Marbled Bee    | Marble Hive      | Requires Normal Flowers | Honey Comb                  |
 |Valiant Bee    | Valiant Any Hive | Any bee from a wild hive has a 5% chance of being Valiant | Cocoa Comb, Sugar |
-|Ender Bee      | End Hive     | Requires Dragon Egg     | Mysterious Comb |
-|Mystical Bee   | Curious Hive | Requires Normal Flowers | Mundane Comb    |
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+|Ender Bee      | End Hive         | Requires Dragon Egg     | Mysterious Comb             |
+|Mystical Bee   | Curious Hive     | Requires Normal Flowers | Mundane Comb                |
+|Unusual Bee    | Unusual Hive     | Requires Normal Flowers | Mundane Comb                |
+|Sorcerous Bee  | Resonating Hive  | Requires Normal Flowers | Mundane Comb                |
+|Attuned Bee    | Deep Hive        | Requires Normal Flowers | Mundane Comb                |
+|Infernal Bee   | Infernal Hive    | Nether Wart             | Molten Comb, Glowstone      |
+|Oblivion Bee   | Oblivion Hive    | Chorus                  | Forgotten Comb, Ender Pearl |
+
+There are a total of 12 Mundane Hives (a Bee Species you can find in a hive depending on your mod pack), and each drops its own type of Bee and Honey. Each spawns in a different Area.
+Honey comes from Combs and is used in the Portable Analyzer. It will help you identify Bees and help you choose what Bees to Breed or to throw away. It's the tool you will be using more than anything in the early stages of Bee Breeding. 
+
+The Portable Analyzer tells you the Flowers, Temperature, LifeSpan, Offspring and much more about each bee that you scan. Think of it as a way to know everything about a Bee. More details about the Portable Analyzer later.
+
+So where can all these hives be found?
