@@ -56,6 +56,10 @@ So what else can bees do? Well, apart from give you Delicious Honey Bread, they 
 |Infernal Bee   | Infernal Hive    | Nether Wart             | Molten Comb, Glowstone      |
 |Oblivion Bee   | Oblivion Hive    | Chorus                  | Forgotten Comb, Ender Pearl |
 
+<!---
+I hate Tables
+-->
+
 There are a total of 12 Mundane Hives (a Bee Species you can find in a hive depending on your mod pack), and each drops its own type of Bee and Honey. Each spawns in a different Area.
 Honey comes from Combs and is used in the Portable Analyzer. It will help you identify Bees and help you choose what Bees to Breed or to throw away. It's the tool you will be using more than anything in the early stages of Bee Breeding. 
 
