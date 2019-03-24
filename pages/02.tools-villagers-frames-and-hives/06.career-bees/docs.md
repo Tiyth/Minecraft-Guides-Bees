@@ -1,6 +1,6 @@
 ---
 title: 'Career Bees'
-media_order: 'Student Bees.jpg,Collecting Bees.jpg,Artistic Bees.jpg,Armorer Bees.jpg,Bee Modifiers.jpg,Police Bee.jpg,Police Report.jpg,Sharpening Bees.jpg,Sharpening Modifier.jpg,Lumber Bees.jpg,Husbandry Bees.jpg,Repair Bees.jpg'
+media_order: 'Student Bees.jpg,Collecting Bees.jpg,Artistic Bees.jpg,Armorer Bees.jpg,Bee Modifiers.jpg,Police Bee.jpg,Police Report.jpg,Sharpening Bees.jpg,Sharpening Modifier.jpg,Lumber Bees.jpg,Husbandry Bees.jpg,Repair Bees.jpg,Smeltery Bees.jpg'
 taxonomy:
     category:
         - docs
@@ -24,28 +24,28 @@ There are lots of different bees, especially if you have Binnie’s Mods: Extra 
 
 There are also a few spreadsheets you can find that have a complete list of bee species and their by products: [Master Apiarist Database v2.0](https://docs.google.com/spreadsheets/d/1_moZHLnL35_u-bJ7kFDxWDxY9OuMWK_4l0EB4wIx0_s/edit?type=view&gid=1&f=true&sortcolid=-1&sortasc=true&rowsperpage=250#gid=0).
 
-**Student Bees** - "Will this be on the final test?"
+### **Student Bees** - "Will this be on the final test?"
 * Common + Cultivated (requires a bookshelf as a foundation).
 
 A student bee’s Drone can be sneak-right-clicked onto an apiary and will alert when the queen is gone.
 
 ![](Student%20Bees.jpg)
 
-**Collecting Bees** - Collecting the things that the everyday folks leave behind
+### **Collecting Bees** - Collecting the things that the everyday folks leave behind
 * Student + Common
 
 _Wombling_: Picks up items in their territory and leaves them in their apiary.
 
 ![](Collecting%20Bees.jpg)
 
-**Artistic Bees** - "It's good, but is it art?"
+### **Artistic Bees** - "It's good, but is it art?"
 * Graduate + Cultivated
 
 _Painting_: Creates works of art and hangs them up nearby.
 
 ![](Artistic%20Bees.jpg)
 
-**Armorer Bees** - Will keep you protected
+### **Armorer Bees** - Will keep you protected
 * Graduate + Graduate (requires an anvil as a foundation).
 
 _Armorer_: Buffs armors placed on nearby Flower Pedestals:
@@ -63,7 +63,7 @@ _Policing_: Attacks nearby mobs and picks up items when they die (at a very high
 
 ![](Police%20Report.jpg)
 
-**Sharpening Bees** - "If on your journey, you should encounter God... God will be cut."
+### **Sharpening Bees** - "If on your journey, you should encounter God... God will be cut."
 * Graduate + Armorer
 
 _Sharpening_: Sharpens weapons placed on nearby Flower Pedestals.
@@ -74,33 +74,40 @@ This will provide up to a 100% bonus to the weapon damage of most weapons, inclu
 
 ![](Sharpening%20Modifier.jpg)
 
-**Lumber Bees** - "I'm a Lumber Bee and I'm okay."
+### **Lumber Bees** - "I'm a Lumber Bee and I'm okay."
 * Graduate + Forest
 
 _Bark Biter_: Bites small pieces of bark off of nearby trees. The trees are not permanently harmed by this, and the pieces of bark can be crafted into full logs. These are deposited into the Apiary/Alveary.
 
 ![](Lumber%20Bees.jpg)
 
-**Husbandry Bees** - “Starting a love train!”
+### **Husbandry Bees** - “Starting a love train!”
 * Graduate + Meadows
 
 _Husbandry_: Breeds animals together within its territory.
 
 ![](Husbandry%20Bees.jpg)
 
-**Repair Bees** - “Some chewing gum, and it'll be right as rain.”
+### **Smelter Bees** - “Burn, baby burn!”
+* Graduate + Modest (requires a furnace as a foundation).
+
+_Smelting_: Smelts items placed on nearby Flower Pedestals.
+
+![](Smeltery%20Bees.jpg)
+
+### **Repair Bees** - “Some chewing gum, and it'll be right as rain.”
 * Armorer + Sharpening
 
 _Repair_: Repairs items placed on nearby Flower Pedestals. This includes weapons, armor and Frames; this process is very slow.
 
 ![](Repair%20Bees.jpg)
 
-**Business Bees** - “Would sell their own grandmother for an emerald.”
+### **Business Bees** - “Would sell their own grandmother for an emerald.”
 * PHD + Imperial
 
 _Business_: Grabs items from adjacent inventories and sells them on the Testificate market for emeralds. May take a small commission on each sale. Will not trade emeralds for goods, but rather goods for Emeralds (paper, leather, etc.). Emeralds can be collected from the Apiary/Alveary.
 
-**Junk Seller Bees** - “Cheap as free!”
+### **Junk Seller Bees** - “Cheap as free!”
 * Business + Common
 
 _Junk Sale_: Grabs emeralds from adjacent inventories and buys random objects on the Testificate market. Items will be deposited in the Apiary/Alveary:
