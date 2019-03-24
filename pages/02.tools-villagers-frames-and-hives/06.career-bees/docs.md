@@ -1,6 +1,6 @@
 ---
 title: 'Career Bees'
-media_order: 'Student Bees.jpg,Collecting Bees.jpg,Artistic Bees.jpg,Armorer Bees.jpg,Bee Modifiers.jpg,Police Bee.jpg,Police Report.jpg'
+media_order: 'Student Bees.jpg,Collecting Bees.jpg,Artistic Bees.jpg,Armorer Bees.jpg,Bee Modifiers.jpg,Police Bee.jpg,Police Report.jpg,Sharpening Bees.jpg,Sharpening Modifier.jpg,Lumber Bees.jpg,Husbandry Bees.jpg,Repair Bees.jpg'
 taxonomy:
     category:
         - docs
@@ -70,6 +70,39 @@ _Sharpening_: Sharpens weapons placed on nearby Flower Pedestals.
 
 This will provide up to a 100% bonus to the weapon damage of most weapons, including the custom weapons from Tinkers’ Construct. Note that if you sharpen up to the cap of a Tinkers weapon and then replace the tool head (or other part that provides damage) with something with a higher base damage rating, you will not be able to sharpen it further.
 
+![](Sharpening%20Bees.jpg)
 
+![](Sharpening%20Modifier.jpg)
+
+**Lumber Bees** - "I'm a Lumber Bee and I'm okay."
+* Graduate + Forest
+
+_Bark Biter_: Bites small pieces of bark off of nearby trees. The trees are not permanently harmed by this, and the pieces of bark can be crafted into full logs. These are deposited into the Apiary/Alveary.
+
+![](Lumber%20Bees.jpg)
+
+**Husbandry Bees** - “Starting a love train!”
+* Graduate + Meadows
+
+_Husbandry_: Breeds animals together within its territory.
+
+![](Husbandry%20Bees.jpg)
+
+**Repair Bees** - “Some chewing gum, and it'll be right as rain.”
+* Armorer + Sharpening
+
+_Repair_: Repairs items placed on nearby Flower Pedestals. This includes weapons, armor and Frames; this process is very slow.
+
+![](Repair%20Bees.jpg)
+
+**Business Bees** - “Would sell their own grandmother for an emerald.”
+* PHD + Imperial
+
+_Business_: Grabs items from adjacent inventories and sells them on the Testificate market for emeralds. May take a small commission on each sale. Will not trade emeralds for goods, but rather goods for Emeralds (paper, leather, etc.). Emeralds can be collected from the Apiary/Alveary.
+
+**Junk Seller Bees** - “Cheap as free!”
+* Business + Common
+
+_Junk Sale_: Grabs emeralds from adjacent inventories and buys random objects on the Testificate market. Items will be deposited in the Apiary/Alveary:
 
 
