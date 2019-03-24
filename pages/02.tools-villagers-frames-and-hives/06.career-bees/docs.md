@@ -1,6 +1,6 @@
 ---
 title: 'Career Bees'
-media_order: 'Student Bees.jpg,Collecting Bees.jpg,Artistic Bees.jpg'
+media_order: 'Student Bees.jpg,Collecting Bees.jpg,Artistic Bees.jpg,Armorer Bees.jpg,Bee Modifiers.jpg,Police Bee.jpg,Police Report.jpg'
 taxonomy:
     category:
         - docs
@@ -49,6 +49,26 @@ _Painting_: Creates works of art and hangs them up nearby.
 * Graduate + Graduate (requires an anvil as a foundation).
 
 _Armorer_: Buffs armors placed on nearby Flower Pedestals:
+
+![](Armorer%20Bees.jpg)
+
+![](Bee%20Modifiers.jpg)
+
+**Police Bees** - Freeze!
+* Graduate + Valiant
+
+_Policing_: Attacks nearby mobs and picks up items when they die (at a very high luck rating). Items will be in the Apiary/Alveary inventory (also writes a police report).
+
+![](Police%20Bee.jpg)
+
+![](Police%20Report.jpg)
+
+**Sharpening Bees** - "If on your journey, you should encounter God... God will be cut."
+* Graduate + Armorer
+
+_Sharpening_: Sharpens weapons placed on nearby Flower Pedestals.
+
+This will provide up to a 100% bonus to the weapon damage of most weapons, including the custom weapons from Tinkers’ Construct. Note that if you sharpen up to the cap of a Tinkers weapon and then replace the tool head (or other part that provides damage) with something with a higher base damage rating, you will not be able to sharpen it further.
 
 
 
