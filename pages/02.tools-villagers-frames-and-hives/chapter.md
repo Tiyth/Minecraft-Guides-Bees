@@ -19,4 +19,4 @@ restaurant:
     priceRange: $
 ---
 
-Your page content goes here.
+# Tools, Villagers, Frames and Hives.
