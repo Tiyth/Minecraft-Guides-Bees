@@ -20,7 +20,7 @@ restaurant:
     priceRange: $
 ---
 
-There are lots of different bees, especially if you have Binnie’s Mods: Extra Bees, Gendustry and Magic Bees. While most bees will give you general byproducts such as ores, gems, honey and crafting materials, there are some bees that interact with the world (aside from auras such as regen and exp gain). While I could list all the bees and their byproducts, it is far easier to look this up in JEI (looking up “comb” will help as most ores from combs will be in “tiny piles” format).
+There are lots of different bees, especially if you have Binnie’s Mods: Extra Bees, Gendustry and Magic Bees. While most bees will give you general byproducts such as ores, gems, honey and crafting materials, there are some bees that interact with the world (aside from auras such as regen and exp gain).
 
 There are also a few spreadsheets you can find that have a complete list of bee species and their by products: [Master Apiarist Database v2.0](https://docs.google.com/spreadsheets/d/1_moZHLnL35_u-bJ7kFDxWDxY9OuMWK_4l0EB4wIx0_s/edit?type=view&gid=1&f=true&sortcolid=-1&sortasc=true&rowsperpage=250#gid=0).
 
