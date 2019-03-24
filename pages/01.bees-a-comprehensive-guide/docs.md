@@ -4,7 +4,12 @@ taxonomy:
     category:
         - docs
 visible: true
+googletitle: 'Minecraft Guides | Bees - A Comprehensive Guide'
+googledesc: 'This guide covers everything Bee related in Minecraft including, Forestry, Career Bees, Magic Bees, Gendustry and Binnies Mods'
+twitterenable: true
 twittercardoptions: summary
+twittertitle: 'Minecraft Guides | Bees - A Comprehensive Guide'
+twitterdescription: 'This guide covers everything Bee related in Minecraft including, Forestry, Career Bees, Magic Bees, Gendustry and Binnies Mods'
 articleenabled: false
 musiceventenabled: false
 orgaenabled: false
@@ -17,6 +22,9 @@ restaurantenabled: false
 restaurant:
     acceptsReservations: 'yes'
     priceRange: $
+facebookenable: true
+facebooktitle: 'Minecraft Guides | Bees - A Comprehensive Guide'
+facebookdesc: 'This guide covers everything Bee related in Minecraft including, Forestry, Career Bees, Magic Bees, Gendustry and Binnies Mods'
 ---
 
 This guide covers a range of Minecraft mods related to Bees and aims to be the main source of everything to do with Bees. Whenever bees are added to any pack, there are always the same set of Bee-related mods used in conjunction with Forestry to make life easier and to add a whole bunch of other features. This guide covers each mod in detail and can still be used to guide you through your Bee adventures
