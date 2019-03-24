@@ -35,9 +35,23 @@ So what else can bees do? Well, apart from give you Delicious Honey Bread, they 
 **Mundane Bees**
 
 
-|Species | Origin | Special Notes | Produce|
-|------- | ------ | ------------- | ------ |
-|Forest Bee | Forest Hive | Requires Normal Flowers | Honey Comb |
+|Species     | Origin       | Special Notes           | Produce      |
+|----------- | ------------ | ----------------------- | ------------ |
+|Forest Bee  | Forest Hive  | Requires Normal Flowers | Honey Comb   |
+|Meadows Bee | Meadows Hive | Requires Normal Flowers | Honey Comb   |
+|Modest Bee  | Desert Hive  | Requires Cacti          | Parched Comb |
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
