@@ -25,11 +25,11 @@ This guide covers a range of Minecraft mods related to Bees and aims to be the m
 This guide has been written while playing Feed The Beast: Revelation and includes the following mods.  
 
   
-Binnie's Mods - 2.5.0.146 - Curse  
-Career Bees - 0.4.0 - Curse  
-Gendustry - 1.6.5.8 - Curse  
-Magic Bees - 3.1.9 - Curse  
-Forestry - 5.8.0.256 - Curse  
+Binnie's Mods - 2.5.1.188 - [Curse](https://minecraft.curseforge.com/projects/binnies-mods)  
+Career Bees - 0.4.0 - [Curse](https://minecraft.curseforge.com/projects/career-bees)  
+Gendustry - 1.6.5.8 - [Curse](https://minecraft.curseforge.com/projects/gendustry)  
+Magic Bees - 3.1.10 - [Curse](https://minecraft.curseforge.com/projects/magic-bees)  
+Forestry - 5.8.2.387 - [Curse](https://minecraft.curseforge.com/projects/forestry)  
 
 There are other mods that involve bees that may not be in the guide; these will be added as soon as possible.
 
@@ -39,6 +39,6 @@ This guide will get you breeding bees for all sorts of resources in no time, but
 
 
 ### Other Resources 
-Not The Bees - A modpack focused around Bee Breeding, teaching you the mechanics as you play.
+[Not The Bees](https://minecraft.curseforge.com/projects/not-the-bees) - A modpack focused around Bee Breeding, teaching you the mechanics as you play.
 
 
