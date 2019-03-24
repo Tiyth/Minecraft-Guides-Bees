@@ -35,11 +35,81 @@ So what else can bees do? Well, apart from give you Delicious Honey Bread, they 
 **Mundane Bees**
 
 
-|Species     | Origin       | Special Notes           | Produce      |
-|----------- | ------------ | ----------------------- | ------------ |
-|Forest Bee  | Forest Hive  | Requires Normal Flowers | Honey Comb   |
-|Meadows Bee | Meadows Hive | Requires Normal Flowers | Honey Comb   |
-|Modest Bee  | Desert Hive  | Requires Cacti          | Parched Comb |
+|Species        | Origin       | Special Notes           | Produce         |
+|-------------- | ------------ | ----------------------- | --------------- |
+|Forest Bee     | Forest Hive  | Requires Normal Flowers | Honey Comb      |
+|Meadows Bee    | Meadows Hive | Requires Normal Flowers | Honey Comb      |
+|Modest Bee     | Desert Hive  | Requires Cacti          | Parched Comb    |
+|Tropical Bee   | Jungle Hive  | Requires Fern or Vine   | Silky Comb      |
+|Wintry Bee     | Snow Hive    | Requires Normal Flowers | Frozen Comb     |
+|Marshy Bee     | Swamp Hive   | Requires Mushroom       | Mossy Comb      |
+|Water Bee      | Water Hive   | Requires Lily Pad       | Wet Comb        |
+|Rocky Bee      | Rock Hive    | Requires Stone          | Rocky Comb      |
+|Embittered Bee | Nether Hive  | Requires Nether Wart    | Simmering Comb  |
+|Marbled Bee    | Marble Hive  | Requires Normal Flowers | Honey Comb      |
+|Valiant Bee    | Valiant Any Hive | Any bee from a wild hive has a 5% chance of being Valiant | Cocoa Comb, Sugar |
+|Ender Bee      | End Hive     | Requires Dragon Egg     | Mysterious Comb |
+|Mystical Bee   | Curious Hive | Requires Normal Flowers | Mundane Comb    |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
