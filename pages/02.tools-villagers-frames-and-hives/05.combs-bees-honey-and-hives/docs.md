@@ -66,3 +66,24 @@ Honey comes from Combs and is used in the Portable Analyzer. It will help you id
 The Portable Analyzer tells you the Flowers, Temperature, LifeSpan, Offspring and much more about each bee that you scan. Think of it as a way to know everything about a Bee. More details about the Portable Analyzer later.
 
 So where can all these hives be found?
+
+![](Hives.jpg)
+
+* Meadows Hives - Forests, Forested Hills, Birch Forest, Pine Forest
+* Forest Hive - Forest, Autumn Woods, Forested Hills, Birch Forest, Pine Forest
+* Modest Hive - Desert, Mountain Desert
+* Tropical Hive - Rainforest, Extreme Jungle, Mini Jungle, Jungle
+* Wintry Hive - Taiga, Mountain Taiga, Snowy Rainforest, Snow Forest, Tundra, Ice Plains, Ice Mountains
+* Ender Hive - The End
+* Marshy Hive - Swampland, Green Swamplands, Redwood Lush, Rainforest, Green Hills, Marsh, River
+* Water Hive - Any Underwater - River, Ocean most common but other biomes with water are possible
+* Rock Hive - Any Overworld underground
+* Nether Hive - The Nether
+* Marble Hive - In all biomes, including the Twilight Forest, with the Extra Bees mod.
+* Unusual Hive - Jungle and Plains
+* Curious Hive - Forest and Plains
+* Resonating Hive - Desert
+* Deep Hive - Mountains, Extreme Hills, Ominous Woods
+* Infernal Hive - Nether, below layer 14 under certain Overworld biomes of BoP (like Ominous Woods and Mystic Grove) encased in Glowstone.
+* Oblivion Hive - The End - On the underside of the main island, on the top-side of the Obsidian pillars, below layer 12 under certain Overworld biomes of BoP (like Ominous Woods, Mystic Grove) encased in Endstone.
+
