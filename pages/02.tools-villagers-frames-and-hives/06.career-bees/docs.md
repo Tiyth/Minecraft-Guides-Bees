@@ -146,7 +146,7 @@ _Healing_: Heals any entity within its territory and gives a regen effect:
 
 ![](Doctor%20Bees.jpg)
 
-**Chef Bees** - “Bee our guest.”
+#### **Chef Bees** - “Bee our guest.”
 * Smelter + Artistic
 
 _Honey Glazing_: Gives a special honey glazing to any food item placed on a nearby Flower Pedestal. When eaten, honey-glazed food gives absorption hearts. This can be applied to ANY food.
