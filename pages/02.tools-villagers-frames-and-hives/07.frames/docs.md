@@ -45,6 +45,21 @@ For example, a frame with 2.0x Production, 1.1x Lifespan, 0.8x Genetic Decay, an
 
 **Magic Bees Frames**
 
+| Name             | Durability          | Function                                            |
+| ---------------- |---------------------| --------------------------------------------------- |
+|Gentle Frame      | 200                 | x1.5 Lifespan, x1.4 Production, x0.7 Mutation Rate, -1 Vis per use, "Sano" and "Victus" Flux will be released |
+|Magic Frame       | 240                 
+
+
+
+x2 Production, -2 Vis per use
+
+
+
+
+
+
+
 
 
 
