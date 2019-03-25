@@ -1,6 +1,6 @@
 ---
 title: 'Career Bees'
-media_order: 'Student Bees.jpg,Collecting Bees.jpg,Artistic Bees.jpg,Armorer Bees.jpg,Bee Modifiers.jpg,Police Bee.jpg,Police Report.jpg,Sharpening Bees.jpg,Sharpening Modifier.jpg,Lumber Bees.jpg,Husbandry Bees.jpg,Repair Bees.jpg,Smeltery Bees.jpg,Business Bees.jpg,Junk Seller Bees.jpg,Junkseller Results.jpg,Butcher Bees.jpg,Rainbow Bees.jpg,Mason Bees.jpg,Doctor Bees.jpg,Chef Bees.jpg,Honey Glazing.jpg'
+media_order: 'Student Bees.jpg,Collecting Bees.jpg,Artistic Bees.jpg,Armorer Bees.jpg,Bee Modifiers.jpg,Police Bee.jpg,Police Report.jpg,Sharpening Bees.jpg,Sharpening Modifier.jpg,Lumber Bees.jpg,Husbandry Bees.jpg,Repair Bees.jpg,Smeltery Bees.jpg,Business Bees.jpg,Junk Seller Bees.jpg,Junkseller Results.jpg,Butcher Bees.jpg,Rainbow Bees.jpg,Mason Bees.jpg,Doctor Bees.jpg,Chef Bees.jpg,Honey Glazing.jpg,Priest Bees.jpg,Miner Bees.jpg,Taxcollector Bees.jpg,Ore Crusher Bees.jpg,Clockwork Bees.png,Electrician Bees.jpg,Devil Bees.jpg,Quantum Charming Bees.jpg,Energy Bees.jpg'
 taxonomy:
     category:
         - docs
@@ -162,4 +162,154 @@ _Priest_: Enchants items placed on nearby Flower Pedestals. Their skills can be 
 
 ![](Priest%20Bees.jpg)
 
+#### **Miner Bees** - “Diggy Diggy Hole!”
+* Graduate + Engineer (requires a block of iron as a foundation).
+
+_Mining_: Mines ores within their territory (ignoring y restrictions). These are placed into the Apiary/Alveary.
+
+#### **Silky Miner Bees** - “Silky Silky Dig!”
+* Engineer + Miner (requires a block of gold as a foundation).
+
+_Silky Mining_: Mines ores with Silk-touch.
+
+#### **Fortunate Miner Bees** - “Lucky Lucky Dig!”
+* Miner + Silky Miner (requires a block of diamond as a foundation).
+
+* Fortune Mining: Mines ores with Fortune 3.
+
+![](Miner%20Bees.jpg)
+
+#### **Taxcollector Bees** - “There's one for you, nineteen for me.”
+* Police + Thief
+
+_Taxation_: Extracts drops from nearby mobs without hurting or killing them. This only works for hostile mobs.
+
+![](Taxcollector%20Bees.jpg)
+
+#### **Ore Crusher Bees** - “I've got a crush on ya.”
+* Mason + Sharpening
+
+_Crusher_: Grinds up any metal ores placed on Flower Pedestals to give 2x-3x dust.
+
+![](Ore%20Crusher%20Bees.jpg)
+
+#### **Clockwork Bees** - “Bees made from mechanical parts.”
+* Smelter + Engineer
+
+_Clockwinding_: Winds up Clockwork Engines in their territory, giving free power. Will keep up to 2 Clockwork Engines wound up so long as the Queen is working. The rate at which they are wound up is based on the bee’s Speed rating.
+
+![](Clockwork%20Bees.png)
+
+#### **Mad Scientist Bees** - "Buuurp."
+* Science + Engineer (Must have been a nearby explosion in the last 10 seconds)
+
+_Science!!!!_: Advances scientific progress, and only occasionally causes a random explosion. These explosions only break non-'tile entity' blocks.
+
+
+#### **Electrician Bees** - “Not only will this kill you, it will hurt the whole time you're dying.”
+* Engineer + Clockwork
+
+_Electrifying_: Zaps nearby entities causing a small amount of lightning damage. Can have strange effects on certain mobs and animals.
+
+![](Electrician%20Bees.jpg)
+
+#### **Devil Bees** - “Cigars are evil, you won't miss 'em.”
+* Smelter + Demonic
+
+_Burning_: Everyone is different. No two people are not on fire.
+
+![](Devil%20Bees.jpg)
+
+#### **Quantum Charming Bees** - "err, Mr. Scientist, I feel really..."
+* Quantum Strange + Quantum Strange
+* Mad Scientist + Phantasmal 
+
+_Teleposition_: Randomly swaps nearby blocks of a similar material.
+
+#### **Quantum Strange Bees**
+* Quantum Charming + Quantum Charming
+
+![](Quantum%20Charming%20Bees.jpg)
+
+#### **Energy Bees** - “Power Overwhelming!”
+* Repair + Clockwork
+
+_RF Inducing_: Induces an RF charge in blocks placed next to their housing. The amount of RF produced is based on the bee’s Speed rating.
+
+![](Energy%20Bees.jpg)
+
+There are some bees that are hard to visualize:
+
+#### **Graduate Bee** - “Loaded with student debts.”
+* Student + Common
+
+_Retraining_: Restores the effect chromosomes of any purebred career bee if it has lost them. Place the bee you wish to retrain on a nearby Flower Pedestal.
+
+
+**PHD Bees** - “Not that kind of Doctor.”
+* Student + Graduate
+
+_Retraining_: (see Graduate Bees).
+
+
+#### **Bensen Bees** - "Ya like jazz?"\
+* Artistic + Boggy
+
+_Jazz_: Plays the best jazz that random number generators can generate. Gather a large band for best effect.
+
+
+#### **Yente Bees** - “Matchmaker, matchmaker, make me a match.”
+* Student + Husbandry
+
+Yente will make matches for your bees. Sneak-right-click a Yente Princess onto an apiary and it's breeding will be automated. Yente will always choose the Drone that she judges to have the best traits for the Princess.
+
+
+#### **Thief Bees** - "You have shinies? No! I have shinies!"
+* Police + Sinister
+
+_Yoink!_: Steals items from nearby players. These items are deposited into the Apiary/Alveary.
+
+
+#### **Plague Bees** - "I prescribe leeches."
+* Doctor + Sinister
+
+_Curative_: Cures any negative potion effects on entities within its territory, and provides slight healing.
+
+
+#### **Assassin Bees** - “Nothing is true. Everything is Permitted. Hay cancels fall damage.”
+* Police + Devil
+
+_Assassin_: Instantly kills active queens in nearby hives. Place in a bee gun for full regicide experience. Kind of works like oblivion frames. It’s good if you’re breeding bees the old fashioned way.
+
+
+#### **N.R.A. Bees** - “Creepers don't damage blocks. Explosions damage blocks.”
+* Devil + Politician
+
+_Explosion "Prevention"_: The only thing that can stop a bad creeper about to explode is a *good* creeper about to explode!
+
+
+#### **Temporal Bees** - “Strange bees from another time and place.”
+* Quantum Strange + Quantum Charming
+
+_Accelerate_: Increases the flow of time within their territory.
+
+
+There are also some bees that do not have any special effects.
+
+#### **Science Bees** - "Why do we all have to wear these ridiculous ties?"
+* PHD + Industrious
+
+#### **Engineer Bees** - "Bit of Duct tape will fix that."
+* PHD + Noble
+
+#### **Politician Bees** - “I promise to lay down your life for our country.”
+* Devil + Thief
+
+_Fundraising_: Does nothing for you.
+
+
+### **Robot Bees** - “Bite my shiny bee ass.”
+* Clockwork + Electrician
+
+These bees have a very fast speed, which might be beneficial to breed into other bees.
 
