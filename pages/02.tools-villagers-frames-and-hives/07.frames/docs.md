@@ -40,6 +40,20 @@ For example, a frame with 2.0x Production, 1.1x Lifespan, 0.8x Genetic Decay, an
 |Chocolate Frame   | 240                 | x1.5 Production, x0.5 Lifespan                      |
 |Healing Frame     | 240                 | x1.5 Lifespan, x0.75 Production, x0.5 Mutation Rate |
 |Nova Frame        | 240                 | Shortens lifespan to one cycle and changes Mutation Rate to 100%. Unobtainable except if in Creative Mode or as an OP on a server. |
+|Restraint Frame   | 240                 | x0.75 Lifespan, x0.75 Production, x0.5 Area (for special Effects, such as Poison, Flammable, Beatific, etc.) |
+|Soul Frame        | 80                 | x1.5 Mutation Rate, x0.75 Lifespan, x0.25 Production |
+
+**Magic Bees Frames**
+
+
+
+
+
+
+
+
+
+
 
 
 
