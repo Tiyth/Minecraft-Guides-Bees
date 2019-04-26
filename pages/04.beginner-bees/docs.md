@@ -23,6 +23,8 @@ Now you know what Mundane bees can produce, what they need to work and where you
 
 >>>>> Most Mundane Bees will not work at night, so don't hang around waiting for something to happen. You’re better off going to sleep.  
 
+
+
 >>>>> Most bees in the beginning will need to have clear access to the sky with no rain or thunderstorms or they will not work.
 
 I suggest you start with Meadows and Forest bees as these work in most climates (if you are in a desert, jungle or an Ice Biome, you will need to move your bees to a different location) and they only require flowers to start breeding. 
