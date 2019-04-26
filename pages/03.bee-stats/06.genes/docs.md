@@ -33,3 +33,5 @@ In real life, we have the Punnett Square for genetic prediction. Let’s use a P
 |-----------------|---------------|----------------|
 
 ```
+
+If all traits were Dominant or all were Recessive, then there would be a 25% chance of a purebred Slow/Slow, a 50% chance of a mixed Slow/Fast, and a 25% chance of a purebred Fast/Fast. But because Dominant genes are… well… dominant, they will be active over Recessive genes. In the above example, you’re looking at a 75% chance of a Slow/Slow and only a 25% chance of a Fast/Fast.
