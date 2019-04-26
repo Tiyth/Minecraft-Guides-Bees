@@ -21,7 +21,7 @@ restaurant:
 
 Now you know what Mundane bees can produce, what they need to work and where you can house them. Now you can begin breeding bees. In order to do this you need a steady supply of bees, a few Apiaries and lots of open space. It’s never a good idea to do this to close to your home as bees could end up killing you if you are low health. 
 
->>>>> Most Mundane Bees will not work at night, so don't hang around waiting for something to happen. You’re better off going to sleep. 
+>>>>> Most Mundane Bees will not work at night, so don't hang around waiting for something to happen. You’re better off going to sleep.  
 
 >>>>> Most bees in the beginning will need to have clear access to the sky with no rain or thunderstorms or they will not work.
 
