@@ -27,7 +27,6 @@ To protect yourself from negative effects that impact players, wear a full set o
 
 Career Bees have a wide variety of effects that aid with automation, such as smelting, mod grinding, passive animal breeding and more.
 
- 
  |Bee   |Effect  |Description|
  |------|--------|-----------|
  |Imperial Bee |	Beatific |	Uses potion effect Regeneration on nearby player for 5 seconds|
@@ -58,8 +57,8 @@ Career Bees have a wide variety of effects that aid with automation, such as sme
  |Fruity Bee |	Ripening |	Bonemeals nearby fruit-bearing leaves|
  |Embittered Bee |	Aggress |	Damages nearby entities, both players and mobs|
  |Furious Bee |	Meteor |	Spawns fire charges raining down, if housing can see the sky|
- |Volcanic Bee |	Meteor	Spawns fire charges raining down, if housing can see the sky|
- |Malicious Bee |	Poison	Uses potion effect Poison on nearby player for up to 40 seconds|
+ |Volcanic Bee |	Meteor |	Spawns fire charges raining down, if housing can see the sky|
+ |Malicious Bee |	Poison |	Uses potion effect Poison on nearby player for up to 40 seconds|
  |Infectious Bee |	Poison |	Uses potion effect Poison on nearby player for up to 40 seconds|
  |Virulent Bee |	Poison |	Uses potion effect Poison on nearby player for up to 40 seconds|
  |Fermented Bee |	Drunkard |	Uses potion effect Confusion on nearby player for 5 seconds|
