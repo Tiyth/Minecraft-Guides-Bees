@@ -93,7 +93,7 @@ Career Bees have a wide variety of effects that aid with automation, such as sme
  |Phantasmal Bee |	Resurrection |	Spawns Creeper, Endermen, Spiders, Cave Spiders, Ghasts, or Ender Dragons if their drops are lying around|
  |Vindictive Bee |	Radioact |	Damages nearby entities. Destroys nearby blocks|
  |Vengeful Bee |	Radioact |	Damages nearby entities. Destroys nearby blocks|
- |Avenging Bee	Radioact |	Damages nearby entities. Destroys nearby blocks|
+ |Avenging Bee |	Radioact |	Damages nearby entities. Destroys nearby blocks|
  |Hermitic Bee |	Repulsion |	Nearby mobs try to move away from the player|
  |Blooming Bee |	Growth |	Bonemeals nearby saplings|
  |Hazardous Bee |	Creeper |	Damages player as if hit by a creeper explosion of a varying distance|
