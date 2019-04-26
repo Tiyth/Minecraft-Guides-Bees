@@ -44,3 +44,5 @@ Later on you can control all of these factors, but when starting out, you need t
 |End | Chorus|
 |None | Does not require flowers|
 | Ore | Any Ore Block |
+
+There are more stats with bees, and there are many other types of bees, but I am only covering the Mundane Bees so you know what to expect with the bees you find in the world. Later on, this guide will look into how you can find out what any new Species of bees provide, and what else they can do.
