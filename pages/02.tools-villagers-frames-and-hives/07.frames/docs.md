@@ -111,7 +111,7 @@ Oblivion frames reduce the lifespan of a queen to just one cycle, making it inva
 
 Oblivion Frames are extremely rare and expensive, so use them only if you can afford it. These can be crafted but the materials required are byproducts from Magic Bees.
 
-===
+---
 When starting out with bees, its best to not use any frames, this will save you resources. Frames become more handy when you have an Alveary.
 
 Once you do have an Alveary you want to maximise your output of byproducts.
