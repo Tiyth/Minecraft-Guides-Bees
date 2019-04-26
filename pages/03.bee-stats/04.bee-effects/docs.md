@@ -19,7 +19,8 @@ restaurant:
     priceRange: $
 ---
 
- |Bee   |Effect  |Description|
+|Bee   |Effect  |Description|
+|-----|-----|----|
  |Imperial Bee |	Beatific |	Uses potion effect Regeneration on nearby player for 5 seconds|
  |Heroic Bee |	Heroic |	Damages nearby mobs|
  |Sinister Bee |	Aggress |	Damages nearby entities, both players and mobs|
