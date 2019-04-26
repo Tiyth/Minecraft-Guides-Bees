@@ -34,6 +34,6 @@ Waisse a - Many many edits
 IntrACate - Editor  
 Martmists - Small additions and the Recommended Bees section  
 #### Resources
-The MindCrafters - https://www.youtube.com/user/MindCraftersChannel - Various Videos  
-Hypnotizd - https://www.youtube.com/user/hypnotizd - Various Videos  
-Generikb - https://www.youtube.com/user/Generikb - Various Videos (BEEcademy)  
+[The MindCrafters](https://www.youtube.com/user/MindCraftersChannel) - Various Videos  
+[Hypnotizd](https://www.youtube.com/user/hypnotizd) - Various Videos  
+[Generikb](https://www.youtube.com/user/Generikb) - Various Videos (BEEcademy)  
