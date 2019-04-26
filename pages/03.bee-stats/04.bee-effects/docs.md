@@ -121,4 +121,4 @@ Career Bees have a wide variety of effects that aid with automation, such as sme
  |Lux Bee |	Flammable |	Sets nearby entities on fire, both players and mobs
  |Agrarian Bee |	Fertile	| Nothing |
  
-/// Some of these bees may not be in your mod pack but the effects still could be present.
+>>>>> Some of these bees may not be in your mod pack but the effects still could be present.
