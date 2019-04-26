@@ -33,13 +33,13 @@ For example, a frame with 2.0x Production, 1.1x Lifespan, 0.8x Genetic Decay, an
 |Impregnated Frame | 240                 | x2 Production |
 |Proven Frame      |720                  | x2 Production |
 
-**Untreated Frame**
+**Untreated Frame**  
 It is the weakest and most basic type of frame. Sometimes it may be found in village Apiaries. Each Untreated Frame will double a bee’s productivity.
 
-**Impregnated Frame**
+**Impregnated Frame**  
 Each freame doubles the bee’s productivity. It has a longer durability than the Untreated Frame, but a shorter one compared to the Proven Frame. Impregnated Frames can sometimes be found inside Villager Apiaries.
 
-**Proven Frame**
+**Proven Frame**  
 Each frame doubles the bees productivity. Out of the three Forestry frames (Untreated, Impregnated and Proven), the Proven Frame has the longest durability. Proven Frames can only be bought from Apiarist Villagers.
 
 
@@ -53,22 +53,22 @@ Each frame doubles the bees productivity. Out of the three Forestry frames (Untr
 |Restraint Frame   | 240                 | x0.75 Lifespan, x0.75 Production, x0.5 Area (for special Effects, such as Poison, Flammable, Beatific, etc.) |
 |Soul Frame        | 80                 | x1.5 Mutation Rate, x0.75 Lifespan, x0.25 Production |
 
-**Soul Frame**
+**Soul Frame**  
 Increases the chance of getting a different type of bee species at the cost of drastically reduced production and a shorter lifespan.
 
 It increases the chance of mutation by 50% of the initial mutation chance. The lifespan is reduced to 75%, while production is reduced to 25% of its original value.
 
-**Healing Frame**
+**Healing Frame**  
 Increases a Queen's lifespan at the cost of a lesser productivity and a decreased mutation rate.
 
 It increases a bee’s lifespan by 50% while reducing its productivity to 75%, and the chance of mutation to only 50%
 
-**Restraint Frame**
+**Restraint Frame**  
 Decreases bee range at the cost of lower productivity and a shorter lifespan.
 
 The lifespan and production are both reduced to 75%. The bee’s territory is decreased to 50%, meaning that special effects such as poison or aggression have a smaller range. The Restraint Frame is only considered useful in special cases, as a bees damaging effects can also be cancelled out using Apiarist's Clothes.
 
-**Chocolate Frame**
+**Chocolate Frame**  
 The Chocolate Frame increases the production of the Queen by 50% while reducing her lifespan by 50%. The effects of multiple frames stack multiplicatively, so three Chocolate Frames will make the Lifespan for a Longest life Queen four minutes instead of the usual thirty two. It is constructed using Cocoa Beans and an Impregnated Frame. Chocolate Frames are most often employed to speed up generational turnover, when cloning Princesses for a pure strain or breeding for traits. For increased production, Forestry's standard Frames are more effective, unless the apiary is setup to automatically replace the Drones and Princesses when the queen dies, in this case the chocolate frame will speed up production.
 
 
@@ -86,27 +86,27 @@ The Chocolate Frame increases the production of the Queen by 50% while reducing 
 
 Magic Bees is a bit of a hit and miss. Unless you have a magic mod installed such as Thaumcraft or Ars Magica then the frames just become the same as other frames, but with different materials. Skip these because they don't add many useful (apart from a few frames) or interesting bees unless you have magic mods.
 
-**Magic Frame**
+**Magic Frame**  
 Has a very high durability and doubles bee production. Impregnated Frame alternative.
 
-**Necrotic Frame**
+**Necrotic Frame**  
 Drastically decreases a Queen's lifespan and productivity. It has a durability of 270. Alternative to the Restraint Frame.
 
-**Temporal Frame** 
+**Temporal Frame**  
 Drastically increases a Queen's lifespan to 150%. It has a durability of 300.
 
-**Metabolic Frame**
+**Metabolic Frame**  
 Drastically increases a bees mutation rate, as well as slightly increasing its production, at the cost of high aura consumption. It has a durability of 120.
 
-**Resilient Frame**
+**Resilient Frame**  
 Doubles the bee’s productivity. It has a durability of 840, making it the most durable frame available. The Resilient Frame is the longer-lasting counterpart to the Magic Frame.
 
-**Gentle Frame**
+**Gentle Frame**  
 Increases a Queen's lifespan and production at the cost of a slightly lower mutation rate. It has a durability of 200, which is slightly shorter than average.
 
 The Gentle Frame increases a bee’s lifespan by 50%, its productivity by 40%, but the mutation rate is lowered by 30%.
 
-**Oblivion Frame**
+**Oblivion Frame**  
 Oblivion frames reduce the lifespan of a queen to just one cycle, making it invaluable in trying to mutate or get extra Drones without needing to wait. Placing Soul Frames or Mutation Frames with an Oblivion Frame will make mutating a new species a snap. Note that while you can put multiple Oblivion Frames into an apiary, this is extremely wasteful as you only need a single frame to kill off the queen. There are also other ways of killing off your queen instantly.
 
 Oblivion Frames are extremely rare and expensive, so use them only if you can afford it. These can be crafted but the materials required are byproducts from Magic Bees.
