@@ -23,11 +23,10 @@ Now you know what Mundane bees can produce, what they need to work and where you
 
 >>>>> Most Mundane Bees will not work at night, so don't hang around waiting for something to happen. You’re better off going to sleep.  
 
+I suggest you start with Meadows and Forest bees as these work in most climates (if you are in a desert, jungle or an Ice Biome, you will need to move your bees to a different location) and they only require flowers to start breeding. 
 
 
 >>>>> Most bees in the beginning will need to have clear access to the sky with no rain or thunderstorms or they will not work.
-
-I suggest you start with Meadows and Forest bees as these work in most climates (if you are in a desert, jungle or an Ice Biome, you will need to move your bees to a different location) and they only require flowers to start breeding. 
 
 Get as many bees as you can carry and try to get equal amounts of Forest and Meadows Bees. You will notice that when collecting bees, you will come across Honeycombs. This will come in handy when you want to store Bees, and will be needed when using the Portable Analyzer. Keep these for now. Throw a few Combs into a Centrifuge to get honey.
 
