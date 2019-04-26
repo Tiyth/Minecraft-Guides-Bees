@@ -33,6 +33,17 @@ For example, a frame with 2.0x Production, 1.1x Lifespan, 0.8x Genetic Decay, an
 |Impregnated Frame | 240                 | x2 Production |
 |Proven Frame      |720                  | x2 Production |
 
+### Untreated Frame
+It is the weakest and most basic type of frame. Sometimes it may be found in village Apiaries. Each Untreated Frame will double a bee’s productivity.
+
+Impregnated Frame
+Each freame doubles the bee’s productivity. It has a longer durability than the Untreated Frame, but a shorter one compared to the Proven Frame. Impregnated Frames can sometimes be found inside Villager Apiaries.
+
+Proven Frame
+Each frame doubles the bees productivity. Out of the three Forestry frames (Untreated, Impregnated and Proven), the Proven Frame has the longest durability. Proven Frames can only be bought from Apiarist Villagers.
+
+
+
 **Extra Bees Frames**
 
 | Name             | Durability          | Function                                            |
