@@ -35,9 +35,9 @@ restaurant:
  |Ender Bee |	Ends |	Damages nearby players|
  |Austere Bee |	Creeper |	Damages player as if hit by a creeper explosion of a varying distance|
  |Tropical Bee |	Poison |	Uses potion effect Poison on nearby player for up to 40 seconds|
- |Exotic Bee |	Poison Z	Uses potion effect Poison on nearby player for up to 40 seconds|
- |Edenic Bee |	Explorer Z	Gives nearby players experience points.|
- |Wintry Bee |	Freezing Z	Slowly converts nearby water source blocks to ice, if biome temperature is normal or cooler|
+ |Exotic Bee |	Poison |	Uses potion effect Poison on nearby player for up to 40 seconds|
+ |Edenic Bee |	Explorer |	Gives nearby players experience points.|
+ |Wintry Bee |	Freezing |	Slowly converts nearby water source blocks to ice, if biome temperature is normal or cooler|
  |Icy Bee |	Freezing |	Slowly converts nearby water source blocks to ice, if biome temperature is normal or cooler|
  |Glacial Bee |	Freezing |	Slowly converts nearby water source blocks to ice, if biome temperature is normal or cooler|
  |Tipsy Bee |	Drunkard |	Uses potion effect Confusion on nearby player for 5 seconds|
