@@ -19,6 +19,15 @@ restaurant:
     priceRange: $
 ---
 
+ Some Bees have additional effects that they perform within range of their working territory. Some of these are beneficial effects that can help you, some… not so much.
+
+A queen will only perform her effect when working and when conditions are right. For example, the Beatific effect gives a small bit of regeneration, but only if the player is within range. The Creepers effect will randomly spawn Creepers within the territory if the light level is low enough. The Water effect will fill up near by tanks with water.
+
+To protect yourself from negative effects that impact players, wear a full set of the Apiarists Armor, Bee Armor or simply stay out of the bee’s territory until the queen dies off.
+
+Career Bees have a wide variety of effects that aid with automation, such as smelting, mod grinding, passive animal breeding and more.
+
+ 
  |Bee   |Effect  |Description|
  |------|--------|-----------|
  |Imperial Bee |	Beatific |	Uses potion effect Regeneration on nearby player for 5 seconds|
