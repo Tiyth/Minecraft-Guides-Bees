@@ -28,10 +28,10 @@ A bee that has Both 1 in temperature tolerance and up 1 in humidity tolerance ca
 While there are six temperature climates, there are only three humidity climates. Having more than Both 2 in humidity tolerance (ex: using the acclimizer) is wasteful.
  
 
-Temperature climates:
+**Temperature climates**:  
 Icy > Cold > Normal > Warm > Hot/ Hellish
 
 Hellish acts as Hot for the purposes of temperature. This is simply an indication that the bee requires the Nether biome.
  
-Humidity climates:
+**Humidity climates**:  
 Humid > Normal > Damp
