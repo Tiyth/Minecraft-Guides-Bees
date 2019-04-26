@@ -22,6 +22,7 @@ restaurant:
 So now that we’ve covered all these bees, you might be interested in useful applications for these. Here are some bees that are commonly used:
 
 **Bees as power**  
+
 Required mods: Extra Bees, CareerBees, Gendustry.
 
 Using Energy bees in Industrial Apiaries with 1 Automation and 8 production upgrades, you can generate 15kRF/bee/tick. A full guide can be found [here](https://www.reddit.com/r/feedthebeast/comments/7vwadh/atm3_bee_power_15000_rft_from_one_bee/) (Credits to u/HerrKnarz).
@@ -45,6 +46,7 @@ As mentioned in the comments, output can be greatly improved (860%?) by using Al
 | Rain Tolerant | True | Water Bee | 
 
 **Bees as power II**  
+
 Required mods: Extra Bees, Environmental Tech, Gendustry
 
 >>>>> This setup is more experimental than the one above. Starting it takes a lot of power, and you’re not guaranteed to have all lightning bolts hit the rods.
@@ -72,7 +74,9 @@ Original Post: [link](https://redd.it/8zsy90) (Credits to u/martmists)
 | Rain Tolerant | True | Water Bee |
 
 **Beegone, mobs!**  
+
 Required mods: Extra Bees, Career Bees  
+
 Using bees, we can make easy mob grinders. I’m not gonna post the entire trait lists, since they’re practically identical to the ones above except for Effect.
 
 Place three industrial apiaries on top of each other. Top one will have a bee that spawns your mob (see table below). The center one will hold a Police Bee, and the bottom one a Collector Bee (I recommend Territory Largest on these two).
