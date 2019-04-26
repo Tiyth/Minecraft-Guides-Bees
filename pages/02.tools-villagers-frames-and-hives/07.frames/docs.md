@@ -33,7 +33,7 @@ For example, a frame with 2.0x Production, 1.1x Lifespan, 0.8x Genetic Decay, an
 |Impregnated Frame | 240                 | x2 Production |
 |Proven Frame      |720                  | x2 Production |
 
-### Untreated Frame
+##### ### Untreated Frame
 It is the weakest and most basic type of frame. Sometimes it may be found in village Apiaries. Each Untreated Frame will double a bee’s productivity.
 
 Impregnated Frame
