@@ -1,6 +1,6 @@
 ---
 title: 'PDF Download'
-external_url: '#'
+external_url: 'http://bit.ly/BeesPDF'
 twittercardoptions: summary
 articleenabled: false
 musiceventenabled: false
