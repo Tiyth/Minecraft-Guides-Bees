@@ -61,7 +61,6 @@ The Mutator is an Alveary addition that can increase the chance of creating a mu
 
 Depending on the item provided, the success rate of a mutation changes. Each Mutator can hold up to one stack of a single item. The Mutator will consume one item placed in it each time a Queen dies, regardless of actually being able to create mutations or not.
 
-* 
 * Soul Sand - success rate 1.5 times higher.
 * Ender Pearl - success rate 2 times higher.
 * Eye of Ender - success rate 4 times higher.
