@@ -117,6 +117,8 @@ Career Bees have a wide variety of effects that aid with automation, such as sme
  |Dante Bee |	Flammable |	Sets nearby entities on fire, both players and mobs|
  |Skystone Bee |	Flammable |	Sets nearby entities on fire, both players and mobs|
  |Carbon Bee |	None	| |
- |Abandoned Bee	Repulsion |	Nearby mobs try to move away from the player
+ |Abandoned Bee |	Repulsion |	Nearby mobs try to move away from the player
  |Lux Bee |	Flammable |	Sets nearby entities on fire, both players and mobs
  |Agrarian Bee |	Fertile	| Nothing |
+ 
+ !!! Some of these bees may not be in your mod pack but the effects still could be present.
