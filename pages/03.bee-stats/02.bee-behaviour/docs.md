@@ -30,8 +30,8 @@ Each bee requires a Valid Flower Type in order to “work”. If a bee require V
 
 Later on you can control all of these factors, but when starting out, you need to do a little leg work. Once you start breeding, you will find it easier and easier to get results. The best way to find out what flower a Queen needs is to use the Portable Analyzer.
 
-|Flower Type        | Flower           |
-|------------------ | ---------------- |
+|Flower Type| Flower |
+|---------- | -------|
 |Flowers | Minecraft Flowers|
 |Jungle | Vines or Fern|
 |Mushroom | Red or Brown mushrooms|
