@@ -1,5 +1,6 @@
 ---
 title: 'Pristine and Ignoble Stock'
+media_order: 'Pristine.jpg,Ignoble.jpg'
 taxonomy:
     category:
         - docs
@@ -29,11 +30,11 @@ Ignoble queens have a tiny chance of not producing a princess in an Apiary after
 
 **Ignoble** - This specific Princess will die and disappear after a random number of breeding cycles.
 
-
+![](Ignoble.jpg)
 
 **Pristine** - This specific Princess will never disappear.
 
-
+![](Pristine.jpg)
 
 Long story short - if you get an Ignoble Princess - you should make as many Drones from that Princess - and then use those Drones to turn a Pristine Princess into that type.
 
