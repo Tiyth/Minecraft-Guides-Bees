@@ -47,6 +47,7 @@ As mentioned in the comments, output can be greatly improved (860%?) by using Al
 **Bees as power II**
 Required mods: Extra Bees, Environmental Tech, Gendustry
 >>>>> This setup is more experimental than the one above. Starting it takes a lot of power, and you’re not guaranteed to have all lightning bolts hit the rods.
+
 Using Energetic bees, you can summon Lightning strikes. We can use these with an Environmental Tech Lightning Rod to get a LOT of power.
 Setup in images: [link](https://imgur.com/gallery/o7SOwOG) 
 In testing, this setup gave me 112 GRF (112,000,000,000 RF) in just under 6 hours.
