@@ -7,7 +7,7 @@ visible: true
 googletitle: 'Minecraft Guides | Bees - A Comprehensive Guide'
 googledesc: 'This guide covers everything Bee related in Minecraft including, Forestry, Career Bees, Magic Bees, Gendustry and Binnies Mods'
 twitterenable: true
-twittercardoptions: summary
+twittercardoptions: summary_large_image
 twittershareimg: /tools-villagers-frames-and-hives/combs-bees-honey-and-hives/Hives.jpg
 twittertitle: 'Minecraft Guides | Bees - A Comprehensive Guide'
 twitterdescription: 'This guide covers everything Bee related in Minecraft including, Forestry, Career Bees, Magic Bees, Gendustry and Binnies Mods'
