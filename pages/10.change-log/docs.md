@@ -1,12 +1,11 @@
 ---
 title: 'Change Log'
-published: false
+published: true
 taxonomy:
     category:
         - docs
 visible: true
 ---
-
 
 All notable changes to this guide will be documented here.
 
