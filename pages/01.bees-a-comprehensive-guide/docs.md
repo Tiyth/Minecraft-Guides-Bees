@@ -5,6 +5,7 @@ taxonomy:
         - docs
 external_links:
     title: true
+menu: Bees
 visible: true
 override_default_title: 'Minecraft Guides | Bees - A Comprehensive Guide'
 override_default_desc: 'This guide covers everything Bee related in Minecraft including, Forestry, Career Bees, Magic Bees, Gendustry and Binnies Mods'
