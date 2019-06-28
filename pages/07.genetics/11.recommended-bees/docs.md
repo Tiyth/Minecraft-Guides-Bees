@@ -33,7 +33,7 @@ As mentioned in the comments, output can be greatly improved (860%?) by using Al
 |--|--|--|
 | Species | Energy | Energy Bee |
 | Lifespan |  Longest | Relic Bee |
-| Production | Blinding | Amped Bee |
+| Production | Robotic | Robot Bee |
 | Pollination | Any | - |
 | Flower type | Any, Rocks recommended | Rocky Bee |
 | Fertility |Any, 1 recommended | Rocky Bee |
@@ -61,7 +61,7 @@ Original Post: [link](https://redd.it/8zsy90) (Credits to u/martmists)
 |--|--|--|
 | Species | Any | - |
 | Lifespan | Longest | Relic Bee |
-| Production | Blinding |Amped Bee |
+| Production | Robotic | Robot Bee |
 | Pollination | Any |- |
 | Flower type | Any, Rocks recommended | Rocky Bee |
 | Fertility | Any, 1 recommended | Rocky Bee |
