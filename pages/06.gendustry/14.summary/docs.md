@@ -28,7 +28,7 @@ You want to have a bee that has a short lifespan and has plenty of offspring. Th
 Genes to have on every breeding bee:
 
 * Fertility - 4 - If you can’t get 4, get it as high as possible.
-* Speed - Blinding
+* Speed - Robotic
 * Lifespan - Shortest
 * Rain - Tolerant
 * Nocturnal
@@ -39,7 +39,7 @@ A **Produce** focused bee would have the following traits:
 
 * Fertility - 1
 * Lifespan - Longest
-* Speed - Blinding
+* Speed - Robotic
 * Rain - Tolerant
 * Nocturnal
 
