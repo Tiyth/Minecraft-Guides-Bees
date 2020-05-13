@@ -25,7 +25,7 @@ Binnie's Mods - [Binnie567](https://minecraft.curseforge.com/members/Binnie567),
 Career Bees - RWTema  
 Gendustry - bdew  
 Magic Bees - [MysteriousAges](https://minecraft.curseforge.com/members/MysteriousAges), [Elec332](https://minecraft.curseforge.com/members/Elec332)  
-Forestry - [SirSengir](https://minecraft.curseforge.com/members/SirSengir),[CovertJaguar](https://minecraft.curseforge.com/members/CovertJaguar), mezz](https://minecraft.curseforge.com/members/mezz), [MysteriousAges ](https://minecraft.curseforge.com/members/MysteriousAges)  
+Forestry - [SirSengir](https://minecraft.curseforge.com/members/SirSengir),[CovertJaguar](https://minecraft.curseforge.com/members/CovertJaguar), [mezz](https://minecraft.curseforge.com/members/mezz), [MysteriousAges ](https://minecraft.curseforge.com/members/MysteriousAges)  
 
 #### Contributors
 Tyith  
