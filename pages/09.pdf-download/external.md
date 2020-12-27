@@ -1,18 +1,10 @@
 ---
 title: 'PDF Download'
-external_url: 'http://bit.ly/BeesPDF'
+external_url: 'https://bees.minecraftguides.net/Bees%20101.pdf'
+twitterenable: true
 twittercardoptions: summary
 articleenabled: false
-musiceventenabled: false
-orgaenabled: false
-orga:
-    ratingValue: 2.5
-orgaratingenabled: false
-eventenabled: false
 personenabled: false
-restaurantenabled: false
-restaurant:
-    acceptsReservations: 'yes'
-    priceRange: $
+facebookenable: true
 ---
 
