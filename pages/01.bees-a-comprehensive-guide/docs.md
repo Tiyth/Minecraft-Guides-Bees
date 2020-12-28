@@ -26,7 +26,7 @@ This guide covers a range of Minecraft mods related to Bees and aims to be the m
 ### Mods Used  
 This guide has been written while playing Feed The Beast: Revelation and includes the following mods.  
 
-<center><b>Minecraft Version Used:</b> 1.12.2</center>
+<center>Minecraft Version Used: <b>1.12.2</b></center>
     
     
 Binnie's Mods - 2.5.1.188 - [Curse](https://minecraft.curseforge.com/projects/binnies-mods)  
